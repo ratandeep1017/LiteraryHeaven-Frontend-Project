@@ -1,2 +1,2 @@
-# LiteraryHeaven-Frontend-Projectproject
+# LiteraryHeaven-Frontend-Project
 Literary Heaven: Your Literary Escape
